@@ -1,0 +1,13 @@
+{
+  "hypixelKey": "HYPIXEL-API-KEY",
+  "guild": "GUILD-NAME",
+  "prefix": "!",
+  "discordBotToken": "DISCORD-BOT-TOKEN",
+  "guildOwnerID": "GUILD-OWNER-ID",
+  "officerRoleID": "OFFICER-ROLE-ID",
+  "loggingChannelID": "LOGGING-CHANNEL-ID",
+  "officerApplicationsChannelID": "OFFICER-APPLICATIONS-CHANNEL-ID",
+  "dmChannel": "DM-CHANNEL-ID",
+  "suggestionsChannelID": "SUGGESTIONS-CHANNEL-ID",
+  "inactiveLimit": 3
+}
